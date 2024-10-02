@@ -2,15 +2,17 @@ import 'package:flutter/material.dart';
 
 class SplashButton extends StatelessWidget {
   final int currentScreen;
+  final VoidCallback? onPressed;
   const SplashButton({
     super.key,
     required this.currentScreen,
+    this.onPressed,
   });
 
   @override
   Widget build(BuildContext context) {
     return ElevatedButton(
-      onPressed: () {},
+      onPressed: onPressed,
       style: ButtonStyle(
         fixedSize: WidgetStateProperty.all(
           const Size(double.infinity, 50),

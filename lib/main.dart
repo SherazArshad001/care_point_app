@@ -20,10 +20,6 @@ class MyApp extends StatelessWidget {
         useMaterial3: true,
       ),
       home: const SplashScreen(),
-      // routes: {
-      //   ('/'): (context) => const SplashScreen(),
-      //   ('/login'): (context) => const LogInPage(),
-      // },
     );
   }
 }

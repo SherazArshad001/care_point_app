@@ -1,0 +1,14 @@
+/home/fraz/Documents/Flutter Projects/care_point_app/build/linux/x64/debug/CMakeFiles/install/strip.dir
+/home/fraz/Documents/Flutter Projects/care_point_app/build/linux/x64/debug/CMakeFiles/install/local.dir
+/home/fraz/Documents/Flutter Projects/care_point_app/build/linux/x64/debug/CMakeFiles/install.dir
+/home/fraz/Documents/Flutter Projects/care_point_app/build/linux/x64/debug/CMakeFiles/list_install_components.dir
+/home/fraz/Documents/Flutter Projects/care_point_app/build/linux/x64/debug/CMakeFiles/rebuild_cache.dir
+/home/fraz/Documents/Flutter Projects/care_point_app/build/linux/x64/debug/CMakeFiles/edit_cache.dir
+/home/fraz/Documents/Flutter Projects/care_point_app/build/linux/x64/debug/CMakeFiles/care_point_app.dir
+/home/fraz/Documents/Flutter Projects/care_point_app/build/linux/x64/debug/flutter/CMakeFiles/install/strip.dir
+/home/fraz/Documents/Flutter Projects/care_point_app/build/linux/x64/debug/flutter/CMakeFiles/install/local.dir
+/home/fraz/Documents/Flutter Projects/care_point_app/build/linux/x64/debug/flutter/CMakeFiles/install.dir
+/home/fraz/Documents/Flutter Projects/care_point_app/build/linux/x64/debug/flutter/CMakeFiles/list_install_components.dir
+/home/fraz/Documents/Flutter Projects/care_point_app/build/linux/x64/debug/flutter/CMakeFiles/rebuild_cache.dir
+/home/fraz/Documents/Flutter Projects/care_point_app/build/linux/x64/debug/flutter/CMakeFiles/edit_cache.dir
+/home/fraz/Documents/Flutter Projects/care_point_app/build/linux/x64/debug/flutter/CMakeFiles/flutter_assemble.dir

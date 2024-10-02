@@ -1,0 +1,106 @@
+# ninja log v5
+10328	10582	0	CMakeFiles/install.util	f476982523617206
+78	7380	0	/home/fraz/Documents/Flutter Projects/care_point_app/linux/flutter/ephemeral/flutter_linux/fl_value.h	1495c299755304bb
+78	7380	0	/home/fraz/Documents/Flutter Projects/care_point_app/linux/flutter/ephemeral/flutter_linux/fl_plugin_registry.h	1495c299755304bb
+7381	9696	1727682552460047712	CMakeFiles/care_point_app.dir/my_application.cc.o	5079b5e67d183857
+7382	9616	1727682552382935899	CMakeFiles/care_point_app.dir/flutter/generated_plugin_registrant.cc.o	dc40c6ea3a6b0f47
+78	7380	0	/home/fraz/Documents/Flutter Projects/care_point_app/linux/flutter/ephemeral/flutter_linux/fl_string_codec.h	1495c299755304bb
+12934	14220	1727444461503208586	CMakeFiles/care_point_app.dir/main.cc.o	8c5d208c4b55a722
+78	7380	0	/home/fraz/Documents/Flutter Projects/care_point_app/linux/flutter/ephemeral/flutter_linux/fl_basic_message_channel.h	1495c299755304bb
+78	7380	0	flutter/_phony_	1495c299755304bb
+78	7380	0	/home/fraz/Documents/Flutter Projects/care_point_app/linux/flutter/ephemeral/flutter_linux/fl_view.h	1495c299755304bb
+78	7380	0	/home/fraz/Documents/Flutter Projects/care_point_app/linux/flutter/ephemeral/flutter_linux/fl_standard_method_codec.h	1495c299755304bb
+78	7380	0	/home/fraz/Documents/Flutter Projects/care_point_app/linux/flutter/ephemeral/flutter_linux/fl_plugin_registrar.h	1495c299755304bb
+78	7380	0	/home/fraz/Documents/Flutter Projects/care_point_app/linux/flutter/ephemeral/libflutter_linux_gtk.so	1495c299755304bb
+78	7380	0	/home/fraz/Documents/Flutter Projects/care_point_app/linux/flutter/ephemeral/flutter_linux/fl_dart_project.h	1495c299755304bb
+78	7380	0	/home/fraz/Documents/Flutter Projects/care_point_app/linux/flutter/ephemeral/flutter_linux/flutter_linux.h	1495c299755304bb
+78	7380	0	/home/fraz/Documents/Flutter Projects/care_point_app/linux/flutter/ephemeral/flutter_linux/fl_json_message_codec.h	1495c299755304bb
+78	7380	0	/home/fraz/Documents/Flutter Projects/care_point_app/linux/flutter/ephemeral/flutter_linux/fl_engine.h	1495c299755304bb
+78	7380	0	/home/fraz/Documents/Flutter Projects/care_point_app/linux/flutter/ephemeral/flutter_linux/fl_message_codec.h	1495c299755304bb
+78	7380	0	/home/fraz/Documents/Flutter Projects/care_point_app/linux/flutter/ephemeral/flutter_linux/fl_standard_message_codec.h	1495c299755304bb
+78	7380	0	/home/fraz/Documents/Flutter Projects/care_point_app/linux/flutter/ephemeral/flutter_linux/fl_json_method_codec.h	1495c299755304bb
+78	7380	0	/home/fraz/Documents/Flutter Projects/care_point_app/linux/flutter/ephemeral/flutter_linux/fl_binary_codec.h	1495c299755304bb
+78	7380	0	/home/fraz/Documents/Flutter Projects/care_point_app/linux/flutter/ephemeral/flutter_linux/fl_method_codec.h	1495c299755304bb
+9696	10328	1727682553096953849	intermediates_do_not_run/care_point_app	bc6af1e472818b9e
+78	7380	0	/home/fraz/Documents/Flutter Projects/care_point_app/linux/flutter/ephemeral/flutter_linux/fl_method_call.h	1495c299755304bb
+78	7380	0	/home/fraz/Documents/Flutter Projects/care_point_app/linux/flutter/ephemeral/flutter_linux/fl_binary_messenger.h	1495c299755304bb
+78	7380	0	/home/fraz/Documents/Flutter Projects/care_point_app/linux/flutter/ephemeral/flutter_linux/fl_method_channel.h	1495c299755304bb
+78	7380	0	/home/fraz/Documents/Flutter Projects/care_point_app/linux/flutter/ephemeral/flutter_linux/fl_method_response.h	1495c299755304bb
+49	4737	0	/home/fraz/Documents/Flutter Projects/care_point_app/linux/flutter/ephemeral/libflutter_linux_gtk.so	1495c299755304bb
+49	4737	0	/home/fraz/Documents/Flutter Projects/care_point_app/linux/flutter/ephemeral/flutter_linux/fl_basic_message_channel.h	1495c299755304bb
+49	4737	0	/home/fraz/Documents/Flutter Projects/care_point_app/linux/flutter/ephemeral/flutter_linux/fl_binary_codec.h	1495c299755304bb
+49	4737	0	/home/fraz/Documents/Flutter Projects/care_point_app/linux/flutter/ephemeral/flutter_linux/fl_binary_messenger.h	1495c299755304bb
+49	4737	0	/home/fraz/Documents/Flutter Projects/care_point_app/linux/flutter/ephemeral/flutter_linux/fl_dart_project.h	1495c299755304bb
+49	4737	0	/home/fraz/Documents/Flutter Projects/care_point_app/linux/flutter/ephemeral/flutter_linux/fl_engine.h	1495c299755304bb
+49	4737	0	/home/fraz/Documents/Flutter Projects/care_point_app/linux/flutter/ephemeral/flutter_linux/fl_json_message_codec.h	1495c299755304bb
+49	4737	0	/home/fraz/Documents/Flutter Projects/care_point_app/linux/flutter/ephemeral/flutter_linux/fl_json_method_codec.h	1495c299755304bb
+49	4737	0	/home/fraz/Documents/Flutter Projects/care_point_app/linux/flutter/ephemeral/flutter_linux/fl_message_codec.h	1495c299755304bb
+49	4737	0	/home/fraz/Documents/Flutter Projects/care_point_app/linux/flutter/ephemeral/flutter_linux/fl_method_call.h	1495c299755304bb
+49	4737	0	/home/fraz/Documents/Flutter Projects/care_point_app/linux/flutter/ephemeral/flutter_linux/fl_method_channel.h	1495c299755304bb
+49	4737	0	/home/fraz/Documents/Flutter Projects/care_point_app/linux/flutter/ephemeral/flutter_linux/fl_method_codec.h	1495c299755304bb
+49	4737	0	/home/fraz/Documents/Flutter Projects/care_point_app/linux/flutter/ephemeral/flutter_linux/fl_method_response.h	1495c299755304bb
+49	4737	0	/home/fraz/Documents/Flutter Projects/care_point_app/linux/flutter/ephemeral/flutter_linux/fl_plugin_registrar.h	1495c299755304bb
+49	4737	0	/home/fraz/Documents/Flutter Projects/care_point_app/linux/flutter/ephemeral/flutter_linux/fl_plugin_registry.h	1495c299755304bb
+49	4737	0	/home/fraz/Documents/Flutter Projects/care_point_app/linux/flutter/ephemeral/flutter_linux/fl_standard_message_codec.h	1495c299755304bb
+49	4737	0	/home/fraz/Documents/Flutter Projects/care_point_app/linux/flutter/ephemeral/flutter_linux/fl_standard_method_codec.h	1495c299755304bb
+49	4737	0	/home/fraz/Documents/Flutter Projects/care_point_app/linux/flutter/ephemeral/flutter_linux/fl_string_codec.h	1495c299755304bb
+49	4737	0	/home/fraz/Documents/Flutter Projects/care_point_app/linux/flutter/ephemeral/flutter_linux/fl_value.h	1495c299755304bb
+49	4737	0	/home/fraz/Documents/Flutter Projects/care_point_app/linux/flutter/ephemeral/flutter_linux/fl_view.h	1495c299755304bb
+49	4737	0	/home/fraz/Documents/Flutter Projects/care_point_app/linux/flutter/ephemeral/flutter_linux/flutter_linux.h	1495c299755304bb
+49	4737	0	flutter/_phony_	1495c299755304bb
+4738	6556	1727683688233013176	CMakeFiles/care_point_app.dir/flutter/generated_plugin_registrant.cc.o	dc40c6ea3a6b0f47
+4738	6608	1727683688299025001	CMakeFiles/care_point_app.dir/my_application.cc.o	5079b5e67d183857
+6608	7064	1727683688761107782	intermediates_do_not_run/care_point_app	bc6af1e472818b9e
+7064	7249	0	CMakeFiles/install.util	f476982523617206
+48	4113	0	/home/fraz/Documents/Flutter Projects/care_point_app/linux/flutter/ephemeral/libflutter_linux_gtk.so	1495c299755304bb
+48	4113	0	/home/fraz/Documents/Flutter Projects/care_point_app/linux/flutter/ephemeral/flutter_linux/fl_basic_message_channel.h	1495c299755304bb
+48	4113	0	/home/fraz/Documents/Flutter Projects/care_point_app/linux/flutter/ephemeral/flutter_linux/fl_binary_codec.h	1495c299755304bb
+48	4113	0	/home/fraz/Documents/Flutter Projects/care_point_app/linux/flutter/ephemeral/flutter_linux/fl_binary_messenger.h	1495c299755304bb
+48	4113	0	/home/fraz/Documents/Flutter Projects/care_point_app/linux/flutter/ephemeral/flutter_linux/fl_dart_project.h	1495c299755304bb
+48	4113	0	/home/fraz/Documents/Flutter Projects/care_point_app/linux/flutter/ephemeral/flutter_linux/fl_engine.h	1495c299755304bb
+48	4113	0	/home/fraz/Documents/Flutter Projects/care_point_app/linux/flutter/ephemeral/flutter_linux/fl_json_message_codec.h	1495c299755304bb
+48	4113	0	/home/fraz/Documents/Flutter Projects/care_point_app/linux/flutter/ephemeral/flutter_linux/fl_json_method_codec.h	1495c299755304bb
+48	4113	0	/home/fraz/Documents/Flutter Projects/care_point_app/linux/flutter/ephemeral/flutter_linux/fl_message_codec.h	1495c299755304bb
+48	4113	0	/home/fraz/Documents/Flutter Projects/care_point_app/linux/flutter/ephemeral/flutter_linux/fl_method_call.h	1495c299755304bb
+48	4113	0	/home/fraz/Documents/Flutter Projects/care_point_app/linux/flutter/ephemeral/flutter_linux/fl_method_channel.h	1495c299755304bb
+48	4113	0	/home/fraz/Documents/Flutter Projects/care_point_app/linux/flutter/ephemeral/flutter_linux/fl_method_codec.h	1495c299755304bb
+48	4113	0	/home/fraz/Documents/Flutter Projects/care_point_app/linux/flutter/ephemeral/flutter_linux/fl_method_response.h	1495c299755304bb
+48	4113	0	/home/fraz/Documents/Flutter Projects/care_point_app/linux/flutter/ephemeral/flutter_linux/fl_plugin_registrar.h	1495c299755304bb
+48	4113	0	/home/fraz/Documents/Flutter Projects/care_point_app/linux/flutter/ephemeral/flutter_linux/fl_plugin_registry.h	1495c299755304bb
+48	4113	0	/home/fraz/Documents/Flutter Projects/care_point_app/linux/flutter/ephemeral/flutter_linux/fl_standard_message_codec.h	1495c299755304bb
+48	4113	0	/home/fraz/Documents/Flutter Projects/care_point_app/linux/flutter/ephemeral/flutter_linux/fl_standard_method_codec.h	1495c299755304bb
+48	4113	0	/home/fraz/Documents/Flutter Projects/care_point_app/linux/flutter/ephemeral/flutter_linux/fl_string_codec.h	1495c299755304bb
+48	4113	0	/home/fraz/Documents/Flutter Projects/care_point_app/linux/flutter/ephemeral/flutter_linux/fl_value.h	1495c299755304bb
+48	4113	0	/home/fraz/Documents/Flutter Projects/care_point_app/linux/flutter/ephemeral/flutter_linux/fl_view.h	1495c299755304bb
+48	4113	0	/home/fraz/Documents/Flutter Projects/care_point_app/linux/flutter/ephemeral/flutter_linux/flutter_linux.h	1495c299755304bb
+48	4113	0	flutter/_phony_	1495c299755304bb
+4114	5744	1727722669238328913	CMakeFiles/care_point_app.dir/flutter/generated_plugin_registrant.cc.o	dc40c6ea3a6b0f47
+4113	5823	1727722669319309293	CMakeFiles/care_point_app.dir/my_application.cc.o	5079b5e67d183857
+5823	6158	1727722669657227422	intermediates_do_not_run/care_point_app	bc6af1e472818b9e
+6158	6301	0	CMakeFiles/install.util	f476982523617206
+27	5509	0	/home/fraz/Documents/Flutter Projects/care_point_app/linux/flutter/ephemeral/libflutter_linux_gtk.so	1495c299755304bb
+27	5509	0	/home/fraz/Documents/Flutter Projects/care_point_app/linux/flutter/ephemeral/flutter_linux/fl_basic_message_channel.h	1495c299755304bb
+27	5509	0	/home/fraz/Documents/Flutter Projects/care_point_app/linux/flutter/ephemeral/flutter_linux/fl_binary_codec.h	1495c299755304bb
+27	5509	0	/home/fraz/Documents/Flutter Projects/care_point_app/linux/flutter/ephemeral/flutter_linux/fl_binary_messenger.h	1495c299755304bb
+27	5509	0	/home/fraz/Documents/Flutter Projects/care_point_app/linux/flutter/ephemeral/flutter_linux/fl_dart_project.h	1495c299755304bb
+27	5509	0	/home/fraz/Documents/Flutter Projects/care_point_app/linux/flutter/ephemeral/flutter_linux/fl_engine.h	1495c299755304bb
+27	5509	0	/home/fraz/Documents/Flutter Projects/care_point_app/linux/flutter/ephemeral/flutter_linux/fl_json_message_codec.h	1495c299755304bb
+27	5509	0	/home/fraz/Documents/Flutter Projects/care_point_app/linux/flutter/ephemeral/flutter_linux/fl_json_method_codec.h	1495c299755304bb
+27	5509	0	/home/fraz/Documents/Flutter Projects/care_point_app/linux/flutter/ephemeral/flutter_linux/fl_message_codec.h	1495c299755304bb
+27	5509	0	/home/fraz/Documents/Flutter Projects/care_point_app/linux/flutter/ephemeral/flutter_linux/fl_method_call.h	1495c299755304bb
+27	5509	0	/home/fraz/Documents/Flutter Projects/care_point_app/linux/flutter/ephemeral/flutter_linux/fl_method_channel.h	1495c299755304bb
+27	5509	0	/home/fraz/Documents/Flutter Projects/care_point_app/linux/flutter/ephemeral/flutter_linux/fl_method_codec.h	1495c299755304bb
+27	5509	0	/home/fraz/Documents/Flutter Projects/care_point_app/linux/flutter/ephemeral/flutter_linux/fl_method_response.h	1495c299755304bb
+27	5509	0	/home/fraz/Documents/Flutter Projects/care_point_app/linux/flutter/ephemeral/flutter_linux/fl_plugin_registrar.h	1495c299755304bb
+27	5509	0	/home/fraz/Documents/Flutter Projects/care_point_app/linux/flutter/ephemeral/flutter_linux/fl_plugin_registry.h	1495c299755304bb
+27	5509	0	/home/fraz/Documents/Flutter Projects/care_point_app/linux/flutter/ephemeral/flutter_linux/fl_standard_message_codec.h	1495c299755304bb
+27	5509	0	/home/fraz/Documents/Flutter Projects/care_point_app/linux/flutter/ephemeral/flutter_linux/fl_standard_method_codec.h	1495c299755304bb
+27	5509	0	/home/fraz/Documents/Flutter Projects/care_point_app/linux/flutter/ephemeral/flutter_linux/fl_string_codec.h	1495c299755304bb
+27	5509	0	/home/fraz/Documents/Flutter Projects/care_point_app/linux/flutter/ephemeral/flutter_linux/fl_value.h	1495c299755304bb
+27	5509	0	/home/fraz/Documents/Flutter Projects/care_point_app/linux/flutter/ephemeral/flutter_linux/fl_view.h	1495c299755304bb
+27	5509	0	/home/fraz/Documents/Flutter Projects/care_point_app/linux/flutter/ephemeral/flutter_linux/flutter_linux.h	1495c299755304bb
+27	5509	0	flutter/_phony_	1495c299755304bb
+5510	6381	1727725536241636475	CMakeFiles/care_point_app.dir/flutter/generated_plugin_registrant.cc.o	dc40c6ea3a6b0f47
+5510	6442	1727725536304636092	CMakeFiles/care_point_app.dir/my_application.cc.o	5079b5e67d183857
+6442	6827	1727725536693633729	intermediates_do_not_run/care_point_app	bc6af1e472818b9e
+6827	6964	0	CMakeFiles/install.util	f476982523617206
